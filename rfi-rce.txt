@@ -1,1 +1,1 @@
-<?PHP hostname;?>
+<?PHP hostname; ?>
